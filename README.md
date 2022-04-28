@@ -1,1 +1,1 @@
-# Perfect-Number
+# Perfect Number
